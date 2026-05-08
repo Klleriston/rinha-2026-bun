@@ -1,0 +1,7 @@
+{
+    "participants": ["Klleriston"],
+    "social": ["https://github.com/klleriston"],
+    "source-code-repo": "https://github.com/klleriston/rinha-2026-bun",
+    "stack": ["bun", "elysia", "nginx", "typescript"],
+    "open_to_work": false
+}
