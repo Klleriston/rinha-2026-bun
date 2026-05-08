@@ -1,0 +1,14 @@
+node_modules/
+bun.lockb
+
+# Dataset — baixe do repo oficial e converta com `bun run convert.ts`
+resources/references.json.gz
+resources/references.bin
+
+# Build artifacts
+dist/
+*.js.map
+
+# Env
+.env
+.env.*

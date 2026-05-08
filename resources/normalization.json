@@ -1,0 +1,12 @@
+{
+  "_comment": "Constantes usadas nas fórmulas de normalização do vetor. Embutidas diretamente em src/vectorize.ts.",
+  "amount_divisor":       10000,
+  "installments_divisor": 12,
+  "amount_ratio_divisor": 10,
+  "hour_divisor":         23,
+  "day_divisor":          6,
+  "minutes_divisor":      1440,
+  "km_divisor":           1000,
+  "tx_count_divisor":     20,
+  "merchant_avg_divisor": 10000
+}
