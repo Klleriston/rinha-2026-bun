@@ -19,7 +19,7 @@ services:
           memory: "20MB"
 
   api1:
-    image: klleriston/rinha-2026-bun:latest|g
+    image: klleriston/rinha-2026-bun:latest
     platform: linux/amd64
     environment:
       PORT: "3000"
@@ -38,7 +38,7 @@ services:
           memory: "165MB"
 
   api2:
-    image: klleriston/rinha-2026-bun:latest|g
+    image: klleriston/rinha-2026-bun:latest
     platform: linux/amd64
     environment:
       PORT: "3000"
